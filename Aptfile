@@ -1,0 +1,9 @@
+libxml2
+libxml2-dev
+libxslt1.1
+libxslt-dev
+libgmp-dev
+libssl-dev
+libffi-dev
+libsqlite3-0
+libsqlite3-dev
