@@ -6,5 +6,5 @@
   "website": "https://ruby-rails.is-easy-on-scalingo.com/",
   "addons": [{
     "plan": "postgresql:postgresql-sandbox"
-  }],
+  }]
 }
