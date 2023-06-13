@@ -3,5 +3,8 @@
   "description": "Sample Ruby web application using the Rails framework",
   "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/Scalingo/sample-ruby-rails",
-  "website": "https://ruby-rails.is-easy-on-scalingo.com/"
+  "website": "https://ruby-rails.is-easy-on-scalingo.com/",
+  "addons": [{
+    "plan": "postgresql:postgresql-sandbox",
+  }],
 }
