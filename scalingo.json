@@ -5,6 +5,6 @@
   "repository": "https://github.com/Scalingo/sample-ruby-rails",
   "website": "https://ruby-rails.is-easy-on-scalingo.com/",
   "addons": [{
-    "plan": "postgresql:postgresql-sandbox",
+    "plan": "postgresql:postgresql-sandbox"
   }],
 }
